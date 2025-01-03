@@ -1,0 +1,2 @@
+{"level":"INFO","time":"2025-01-03T23:13:22.565+0700","caller":"initializations/run.go:8","msg":"concak"}
+{"level":"ERROR","time":"2025-01-03T23:14:01.783+0700","caller":"initializations/run.go:8","msg":"concak","stacktrace":"booking_movie_ticket/internal/initializations.Run\n\tC:/Users/CYBORG/Desktop/booking_ticket_movie/booking_ticket_movie_be/internal/initializations/run.go:8\nmain.main\n\tC:/Users/CYBORG/Desktop/booking_ticket_movie/booking_ticket_movie_be/cmd/server/main.go:6\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:272"}
