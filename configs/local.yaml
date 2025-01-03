@@ -3,7 +3,7 @@ server:
   mode: "dev"
 postgresql:
   host: 127.0.0.1
-  port: 33306
+  port: 5432
   username: postgres
   password: anhiuemlove33
   db_name: booking_movie_ticket
