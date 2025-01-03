@@ -1,7 +1,7 @@
 package main
 
-import _ "github.com/lib/pq"
+import "booking_movie_ticket/internal/initializations"
 
 func main() {
-
+	initializations.Run()
 }
